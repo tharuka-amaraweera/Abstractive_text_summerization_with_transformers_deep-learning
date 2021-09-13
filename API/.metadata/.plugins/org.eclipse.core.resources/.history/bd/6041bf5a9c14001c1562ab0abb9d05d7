@@ -1,0 +1,5 @@
+package com.assignment.springboot.controller;
+
+public class ProductController {
+
+}

@@ -1,0 +1,5 @@
+package com.assignment.springboot.constants;
+
+public class Constants {
+
+}
