@@ -1,5 +1,0 @@
-package com.assignment.springboot.repository;
-
-public interface ProductRepository {
-
-}
